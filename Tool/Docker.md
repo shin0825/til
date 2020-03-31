@@ -30,3 +30,12 @@
   - RUNやCOPY,CMD,ADDなどを実行する際の作業ディレクトリの指定を行う
   - 複数回実行すると直前の相対パスが指定される。
     - /a => b => c と実行したら、作業ディレクトリは /a/b/c
+
+# Rails 関連
+
+- 参考
+  - https://qiita.com/jshimazu/items/ba13ce87dfdb11e2d1d9
+  
+- database.yml
+  - hostに設定できる値はdocker内のネットワークに存在するデータベースであれば、そのコンテナ名を指定すれば良い。
+    - db-containerというコンテナがあるなら、 host: db-container
