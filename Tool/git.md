@@ -7,11 +7,18 @@
 ### git diff
 - 変更内容の一覧を表示できる
 - パラメータなしの場合、「git addする前に変更点を見ることができる」
+- 参考 https://qiita.com/shibukk/items/8c9362a5bd399b9c56be
 
 ### git remote add https://...
 
 - ローカルリポジトリにリモートリポジトリを設定する
   - URLはダブルクォーテーションで囲わない
+  
+### git log
+- リポジトリのコミットログを参照できる
+- パラメータ -p をつけた場合
+  - git diffと同等の処理をしてくれる、多分使いやすくはない
+- https://qiita.com/takayukioda/items/f1fa9e4c18c233b93e11
 
 ### git rebase
 - git mergeとは違う
