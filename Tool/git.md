@@ -1,6 +1,11 @@
 - 参考
   - http://www-creators.com/archives/1943
 
+### git remote add https://...
+
+- ローカルリポジトリにリモートリポジトリを設定する
+  - URLはダブルクォーテーションで囲わない
+
 ### git rebase
 - git mergeとは違う
   - mergeは枝分かれ先で発生した節（コミット）を、自分が操作している枝の同じ位置にコピーすること
