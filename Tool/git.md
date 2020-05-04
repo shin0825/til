@@ -1,5 +1,12 @@
 - 参考
   - http://www-creators.com/archives/1943
+  
+### git status
+- 変更のあるファイル一覧を表示できる
+
+### git diff
+- 変更内容の一覧を表示できる
+- パラメータなしの場合、「git addする前に変更点を見ることができる」
 
 ### git remote add https://...
 
