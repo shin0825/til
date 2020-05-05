@@ -32,4 +32,10 @@ app.listen(3000, () => {
 
 ## ejs
 
-HTMLのコードの中にjavascriptを書き込むことができるファイルの形式
+HTMLのコードの中にjavascriptを書き込むことができる。テンプレートエンジンの一種。
+
+- <% %>
+  - HTML内でJavascriptの処理を行う
+
+- <%= 〜〜〜 %>
+  - HTMLにJavascriptの文字列を表示する
