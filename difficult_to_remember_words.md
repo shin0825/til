@@ -50,3 +50,29 @@
   - スクラムにおいては、２種類のバックログがある。
     - スプリントバックログ
     - プロダクトバックログ
+
+### AWS
+
+- RDS Proxy
+
+- DATA API
+
+- コネクションプール
+
+- VPC Lambda
+
+- Fargate
+
+- Provisioned Concurrency
+
+- EFS
+
+- ステートフル
+
+- サーバーレス
+
+- DynamoDB
+
+- pros/cons
+
+- Elasticsearch Service
