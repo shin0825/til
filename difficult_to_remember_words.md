@@ -50,6 +50,14 @@
   - スクラムにおいては、２種類のバックログがある。
     - スプリントバックログ
     - プロダクトバックログ
+    
+### トレイト
+
+- 機能を切り出して、再利用可能な塊にしたモノ
+
+- https://qiita.com/f81@github/items/5b96af593812286eec49
+
+- https://sites.google.com/site/scalajp/home/documentation/tutorial_for_java_programmers/trait
 
 ### AWS
 
